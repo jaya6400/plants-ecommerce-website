@@ -2,7 +2,8 @@
 >_**Created a Ecommerce website for buying plants online**_
 ----
 _[Website](http://your-enterntainment-zone-jd.netlify.app)_
-![home](https://github.com/jaya6400/plants-ecommerce-website/assets/66017717/56dc920b-874c-4161-a6d9-0be4ec4eac2b)
+
+![home](https://github.com/jaya6400/plants-ecommerce-website/assets/66017717/1dd06241-5ef1-4fa2-9b84-9f60396c7ed4)
 
 >*Tech stack used* - 
 
