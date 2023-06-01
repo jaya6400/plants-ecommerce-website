@@ -5,7 +5,7 @@ import 'firebase/firestore';
 import 'firebase/auth'
 
 const firebaseConfig = {
-  apiKey: "${process.env.REACT_APP_API}",
+  apiKey: "AIzaSyCQu2peLSkM-OKXD5buZgI64b8dtME6CgY",
   authDomain: "ecommerceapp-shopnow.firebaseapp.com",
   projectId: "ecommerceapp-shopnow",
   storageBucket: "ecommerceapp-shopnow.appspot.com",
