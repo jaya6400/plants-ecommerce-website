@@ -1,7 +1,7 @@
 # Plants Ecommerce website
 >_**Created a Ecommerce website for buying plants online**_
 ----
-_[Website](http://your-enterntainment-zone-jd.netlify.app)_
+_[Website](https://drive.google.com/file/d/1s_kwsHhX5lxxK5mrfLqETixn1XYlNnbM/view?usp=drive_link)_
 
 ![home](https://github.com/jaya6400/plants-ecommerce-website/assets/66017717/1dd06241-5ef1-4fa2-9b84-9f60396c7ed4)
 
