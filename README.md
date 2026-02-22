@@ -3,7 +3,7 @@
 ----
 _[Website](https://drive.google.com/file/d/18xxBjn39S8oXmxU6ioXKMMN5xhcllnDp/view?usp=drive_link)_
 
-![home](https://github.com/jaya6400/plants-ecommerce-website/assets/66017717/1dd06241-5ef1-4fa2-9b84-9f60396c7ed4)
+![home](https://github.com/jaya6400/plants-ecommerce-website/blob/master/src/images/front.png?raw=true)
 
 >*Tech stack used* - 
 
